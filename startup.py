@@ -55,6 +55,10 @@ update_config=1
 rs_machiner_conf = """[login]
 username="%s"
 password="%s"
+client_id="366fml23etelve21co20fcgj7p"
+pool_id="us-east-1_axEQATByX"
+pool_domain="https://rsmachiner.auth.us-east-1.amazoncognito.com"
+api_endpoint="https://blghux3kzk.execute-api.us-east-1.amazonaws.com/prod"
 """
 
 

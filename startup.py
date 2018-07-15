@@ -55,6 +55,7 @@ update_config=1
 rs_machiner_conf = """[login]
 username="%s"
 password="%s"
+api_endpoint="https://blghux3kzk.execute-api.us-east-1.amazonaws.com/prod"
 """
 
 
